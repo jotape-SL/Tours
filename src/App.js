@@ -3,6 +3,7 @@ import Loading from './Loading';
 import Tours from './Tours';
 
 const url = 'https://course-api.com/react-tours-project';
+
 function App() {
   const [isLoading, setIsLoading] = useState(true);
   const [tours, setTours] = useState([]);
@@ -32,7 +33,7 @@ function App() {
   }
   return (
     <main>
-      <Tours />
+      <Tours tours={tours} />
     </main>
   );
 }
