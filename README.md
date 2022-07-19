@@ -28,7 +28,7 @@ $npm start
 ```
 ## 🕸 Link para o site ``(Deploy feito pelo Vercel)``
 
-- **[Em breve]()**
+- **[Tours](https://tours-eta.vercel.app/)**
 
 ---
 
