@@ -30,7 +30,6 @@ $npm start
 
 - **[Tours](https://tours-eta.vercel.app/)**
 
----
 
 ## 🛠 Tecnologias
 
