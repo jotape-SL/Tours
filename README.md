@@ -1,6 +1,6 @@
  # Tours
 
-Uma lista de pontos turisticos em que se tem informações e podem ser excluidos, feito para exercitar React.
+Uma lista de pontos turisticos com suas respectivas informações, apresentando a funcionalidade "ler mais" e a possibilidade de exclusão dos cards, feito como treino de React.
 
 ## 🚀 Como executar o projeto
 
